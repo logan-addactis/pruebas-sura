@@ -1,0 +1,6 @@
+*.bat
+*.log
+*.~atp
+Conexión a DB.txt
+*.xml
+*.json
