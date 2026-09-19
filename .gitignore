@@ -1,6 +1,8 @@
 *.bat
 *.log
 *.~atp
-Conexión a DB.txt
+*.txt
 *.xml
 *.json
+
+/Scripts compu logan/
