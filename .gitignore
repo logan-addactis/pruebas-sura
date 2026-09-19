@@ -4,5 +4,7 @@
 *.txt
 *.xml
 *.json
+*.ps1
+*.py
 
 /Scripts compu logan/
