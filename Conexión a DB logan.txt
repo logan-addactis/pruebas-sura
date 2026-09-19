@@ -1,0 +1,1 @@
+Provider=SQLOLEDB.1;Password=Addactis01!;Persist Security Info=True;User ID=sa;Initial Catalog=pruebas_logan;Data Source=ADDACTISL536\ADDACTIS

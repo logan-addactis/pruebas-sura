@@ -1,0 +1,5 @@
+azure-functions
+pyodbc
+azure-storage-blob
+# Alternativa si el driver ODBC da problemas en el plan de hosting:
+# pymssql
